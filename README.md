@@ -1,2 +1,3 @@
-# ux-research-knowledge-base
-Question banks and knowledge source for UX research MS copilot agents
+## Knowledge Base
+
+- [UX Research Question Bank](question-bank.md)
